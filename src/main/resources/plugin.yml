@@ -1,0 +1,5 @@
+name: ExpToPlayer
+version: 1.0
+main: me.angrypostman.ExpToPlayer.ExpToPlayer
+description: "Give experience from ExpBottles to the player who threw it"
+author: AngryPostman
